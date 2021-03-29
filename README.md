@@ -18,4 +18,7 @@ Sensitivity and Specificity for the Out-of-the-Bag instances and show the most i
 variables (**?importance**).
 
 # Results
-![]()
+![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/GiniGain.png)
+![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/DT.png)
+![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/DT2.png)
+![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/RF.png)
