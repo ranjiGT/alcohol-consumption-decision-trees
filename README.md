@@ -1,4 +1,4 @@
-# alcohol-consumption-decision-trees[^1]
+# alcohol-consumption-decision-trees
 Determining what factors explain alcohol consumption among students.
 
 # Case description
@@ -23,4 +23,4 @@ variables (**?importance**).
 ![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/DT2.png)
 ![](https://github.com/ranjiGT/alcohol-consumption-decision-trees/blob/main/RF.png)
 
-[^1]: https://www.kaggle.com/uciml/student-alcohol-consumption
+#Dataset: https://www.kaggle.com/uciml/student-alcohol-consumption
