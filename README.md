@@ -1,4 +1,4 @@
-# `Why do student's consume excess C2H5OH ` 
+# `Why do student's consume excess C2H5OH ?` 
 Determining what factors explain alcohol consumption among students.
 
 # Case description
