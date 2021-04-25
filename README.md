@@ -1,6 +1,5 @@
-# `Why do student's consume excess` 
+# `Why do student's consume excess C2H5OH ` 
 Determining what factors explain alcohol consumption among students.
-$C_{2}H_{5}OH$ 
 
 # Case description
 What factors explain excessive alcohol consumption among students? The record for the task sheet
