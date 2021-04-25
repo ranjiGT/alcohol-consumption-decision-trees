@@ -1,4 +1,4 @@
-# alcohol-consumption-decision-trees
+# `Why do student's consume excess` $$C_{2}H_{5}OH$$
 Determining what factors explain alcohol consumption among students.
 
 # Case description
