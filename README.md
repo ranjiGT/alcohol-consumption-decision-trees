@@ -1,4 +1,4 @@
-# `Why do student's consume excess C2H5OH?` :beer:
+# `Why do student's consume excess C2H5OH?` :beer: ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 Determining what factors explain alcohol consumption among students.
 
 # Case description
